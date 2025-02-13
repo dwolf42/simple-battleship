@@ -50,3 +50,7 @@ hs_err_pid*
 
 # Exceptions
 !JSON-java.jar
+
+simple-battleship.iml
+
+/out/
